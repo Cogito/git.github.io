@@ -137,9 +137,7 @@ Other releases:
 __Various__
 
 * Jeff King [announced that GitHub is organizing another Git Merge conference](http://article.gmane.org/gmane.comp.version-control.git/282634/) for the beginning of April 2016 with a Git Developer Summit, and asked for people interested in coming to the Summit to tell him.
-* Jeff King, Shawn Pearce and Junio C. Hamano ganged up, urging everyone to
-  [support the Software Freedom Conservancy](http://permalink.gmane.org/gmane.comp.version-control.git/282881),
-  which is the non-profit organization that legally hosts the Git project.
+* Jeff King, Shawn Pearce and Junio C. Hamano joined forces to urge the Git community to [support the Software Freedom Conservancy](http://permalink.gmane.org/gmane.comp.version-control.git/282881), the non-profit organization that legally hosts the Git project.
 
 __Light reading__
 
